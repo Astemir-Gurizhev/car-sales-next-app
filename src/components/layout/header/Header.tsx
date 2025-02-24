@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import styles from './Header.module.css'
+import styles from './Header.module.scss'
 import { useRouter } from 'next/router'
 
 const Header = () => {
