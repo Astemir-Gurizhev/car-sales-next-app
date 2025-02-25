@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const NotFound = () => {
 	return (
-		<Layout>
+		<Layout title='Not Found' description='Not Found'> 
 			<Head>
 				<title>Not Found</title>
 			</Head>
